@@ -1,0 +1,6 @@
+G:\Github\OnlyOne\bin\Debug\OnlyOne.exe.config
+G:\Github\OnlyOne\bin\Debug\OnlyOne.exe
+G:\Github\OnlyOne\bin\Debug\OnlyOne.pdb
+G:\Github\OnlyOne\obj\Debug\OnlyOne.csprojResolveAssemblyReference.cache
+G:\Github\OnlyOne\obj\Debug\OnlyOne.exe
+G:\Github\OnlyOne\obj\Debug\OnlyOne.pdb
